@@ -1,0 +1,10 @@
+C:\Users\Iwecz\Documents\Programmeren\Week 3 opdrachten programmeren\Opdracht 12\bin\Debug\Opdracht 12.exe.config
+C:\Users\Iwecz\Documents\Programmeren\Week 3 opdrachten programmeren\Opdracht 12\bin\Debug\Opdracht 12.exe
+C:\Users\Iwecz\Documents\Programmeren\Week 3 opdrachten programmeren\Opdracht 12\bin\Debug\Opdracht 12.pdb
+C:\Users\Iwecz\Documents\Programmeren\Week 3 opdrachten programmeren\Opdracht 12\obj\Debug\Opdracht 12.csprojAssemblyReference.cache
+C:\Users\Iwecz\Documents\Programmeren\Week 3 opdrachten programmeren\Opdracht 12\obj\Debug\Opdracht_12.Form1.resources
+C:\Users\Iwecz\Documents\Programmeren\Week 3 opdrachten programmeren\Opdracht 12\obj\Debug\Opdracht_12.Properties.Resources.resources
+C:\Users\Iwecz\Documents\Programmeren\Week 3 opdrachten programmeren\Opdracht 12\obj\Debug\Opdracht 12.csproj.GenerateResource.cache
+C:\Users\Iwecz\Documents\Programmeren\Week 3 opdrachten programmeren\Opdracht 12\obj\Debug\Opdracht 12.csproj.CoreCompileInputs.cache
+C:\Users\Iwecz\Documents\Programmeren\Week 3 opdrachten programmeren\Opdracht 12\obj\Debug\Opdracht 12.exe
+C:\Users\Iwecz\Documents\Programmeren\Week 3 opdrachten programmeren\Opdracht 12\obj\Debug\Opdracht 12.pdb

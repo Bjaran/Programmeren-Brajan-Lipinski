@@ -1,0 +1,9 @@
+C:\Users\Iwecz\Documents\Programmeren\Week 4 opdrachten\Opdracht 8\bin\Debug\Opdracht 8.exe.config
+C:\Users\Iwecz\Documents\Programmeren\Week 4 opdrachten\Opdracht 8\bin\Debug\Opdracht 8.exe
+C:\Users\Iwecz\Documents\Programmeren\Week 4 opdrachten\Opdracht 8\bin\Debug\Opdracht 8.pdb
+C:\Users\Iwecz\Documents\Programmeren\Week 4 opdrachten\Opdracht 8\obj\Debug\Opdracht_8.Form1.resources
+C:\Users\Iwecz\Documents\Programmeren\Week 4 opdrachten\Opdracht 8\obj\Debug\Opdracht_8.Properties.Resources.resources
+C:\Users\Iwecz\Documents\Programmeren\Week 4 opdrachten\Opdracht 8\obj\Debug\Opdracht 8.csproj.GenerateResource.cache
+C:\Users\Iwecz\Documents\Programmeren\Week 4 opdrachten\Opdracht 8\obj\Debug\Opdracht 8.csproj.CoreCompileInputs.cache
+C:\Users\Iwecz\Documents\Programmeren\Week 4 opdrachten\Opdracht 8\obj\Debug\Opdracht 8.exe
+C:\Users\Iwecz\Documents\Programmeren\Week 4 opdrachten\Opdracht 8\obj\Debug\Opdracht 8.pdb

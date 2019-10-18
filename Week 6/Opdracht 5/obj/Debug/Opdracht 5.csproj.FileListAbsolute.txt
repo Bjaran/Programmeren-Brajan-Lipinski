@@ -1,0 +1,9 @@
+C:\Users\Iwecz\Documents\Programmeren\Week 6\Opdracht 5\bin\Debug\Opdracht 5.exe.config
+C:\Users\Iwecz\Documents\Programmeren\Week 6\Opdracht 5\bin\Debug\Opdracht 5.exe
+C:\Users\Iwecz\Documents\Programmeren\Week 6\Opdracht 5\bin\Debug\Opdracht 5.pdb
+C:\Users\Iwecz\Documents\Programmeren\Week 6\Opdracht 5\obj\Debug\Opdracht 5.csprojAssemblyReference.cache
+C:\Users\Iwecz\Documents\Programmeren\Week 6\Opdracht 5\obj\Debug\Opdracht_5.Form1.resources
+C:\Users\Iwecz\Documents\Programmeren\Week 6\Opdracht 5\obj\Debug\Opdracht_5.Properties.Resources.resources
+C:\Users\Iwecz\Documents\Programmeren\Week 6\Opdracht 5\obj\Debug\Opdracht 5.csproj.GenerateResource.cache
+C:\Users\Iwecz\Documents\Programmeren\Week 6\Opdracht 5\obj\Debug\Opdracht 5.exe
+C:\Users\Iwecz\Documents\Programmeren\Week 6\Opdracht 5\obj\Debug\Opdracht 5.pdb

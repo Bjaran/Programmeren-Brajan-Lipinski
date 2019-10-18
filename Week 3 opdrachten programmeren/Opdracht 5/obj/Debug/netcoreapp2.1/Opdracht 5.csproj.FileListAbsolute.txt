@@ -1,0 +1,11 @@
+C:\Users\Iwecz\Documents\Programmeren\Week 3 opdrachten programmeren\Opdracht 5\bin\Debug\netcoreapp2.1\Opdracht 5.deps.json
+C:\Users\Iwecz\Documents\Programmeren\Week 3 opdrachten programmeren\Opdracht 5\bin\Debug\netcoreapp2.1\Opdracht 5.runtimeconfig.json
+C:\Users\Iwecz\Documents\Programmeren\Week 3 opdrachten programmeren\Opdracht 5\bin\Debug\netcoreapp2.1\Opdracht 5.runtimeconfig.dev.json
+C:\Users\Iwecz\Documents\Programmeren\Week 3 opdrachten programmeren\Opdracht 5\bin\Debug\netcoreapp2.1\Opdracht 5.dll
+C:\Users\Iwecz\Documents\Programmeren\Week 3 opdrachten programmeren\Opdracht 5\bin\Debug\netcoreapp2.1\Opdracht 5.pdb
+C:\Users\Iwecz\Documents\Programmeren\Week 3 opdrachten programmeren\Opdracht 5\obj\Debug\netcoreapp2.1\Opdracht 5.csproj.CoreCompileInputs.cache
+C:\Users\Iwecz\Documents\Programmeren\Week 3 opdrachten programmeren\Opdracht 5\obj\Debug\netcoreapp2.1\Opdracht 5.AssemblyInfoInputs.cache
+C:\Users\Iwecz\Documents\Programmeren\Week 3 opdrachten programmeren\Opdracht 5\obj\Debug\netcoreapp2.1\Opdracht 5.AssemblyInfo.cs
+C:\Users\Iwecz\Documents\Programmeren\Week 3 opdrachten programmeren\Opdracht 5\obj\Debug\netcoreapp2.1\Opdracht 5.dll
+C:\Users\Iwecz\Documents\Programmeren\Week 3 opdrachten programmeren\Opdracht 5\obj\Debug\netcoreapp2.1\Opdracht 5.pdb
+C:\Users\Iwecz\Documents\Programmeren\Week 3 opdrachten programmeren\Opdracht 5\obj\Debug\netcoreapp2.1\Opdracht 5.csprojAssemblyReference.cache

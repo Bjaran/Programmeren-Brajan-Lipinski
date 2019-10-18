@@ -1,0 +1,10 @@
+C:\Users\Iwecz\Documents\Programmeren\Week 4 opdrachten\Opdracht 2\bin\Debug\netcoreapp2.1\Opdracht 2.deps.json
+C:\Users\Iwecz\Documents\Programmeren\Week 4 opdrachten\Opdracht 2\bin\Debug\netcoreapp2.1\Opdracht 2.runtimeconfig.json
+C:\Users\Iwecz\Documents\Programmeren\Week 4 opdrachten\Opdracht 2\bin\Debug\netcoreapp2.1\Opdracht 2.runtimeconfig.dev.json
+C:\Users\Iwecz\Documents\Programmeren\Week 4 opdrachten\Opdracht 2\bin\Debug\netcoreapp2.1\Opdracht 2.dll
+C:\Users\Iwecz\Documents\Programmeren\Week 4 opdrachten\Opdracht 2\bin\Debug\netcoreapp2.1\Opdracht 2.pdb
+C:\Users\Iwecz\Documents\Programmeren\Week 4 opdrachten\Opdracht 2\obj\Debug\netcoreapp2.1\Opdracht 2.csproj.CoreCompileInputs.cache
+C:\Users\Iwecz\Documents\Programmeren\Week 4 opdrachten\Opdracht 2\obj\Debug\netcoreapp2.1\Opdracht 2.AssemblyInfoInputs.cache
+C:\Users\Iwecz\Documents\Programmeren\Week 4 opdrachten\Opdracht 2\obj\Debug\netcoreapp2.1\Opdracht 2.AssemblyInfo.cs
+C:\Users\Iwecz\Documents\Programmeren\Week 4 opdrachten\Opdracht 2\obj\Debug\netcoreapp2.1\Opdracht 2.dll
+C:\Users\Iwecz\Documents\Programmeren\Week 4 opdrachten\Opdracht 2\obj\Debug\netcoreapp2.1\Opdracht 2.pdb
